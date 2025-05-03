@@ -1,4 +1,4 @@
-# 🎓 College Management System
+# College Management System
 
 A React + Redux + Tailwind CSS app to manage student records with full CRUD support and routing.
 
